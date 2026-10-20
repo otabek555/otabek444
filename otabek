@@ -1,0 +1,52 @@
+!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Otabek - O'quvchi</title>
+    <style>
+        body {
+            background: #0d1117;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        .card {
+            max-width: 500px;
+            margin: auto;
+            padding: 35px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 20px;
+        }
+
+        h1 {
+            color: #58a6ff;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.7;
+        }
+
+        .heart {
+            color: #ff6b81;
+            font-size: 30px;
+        }
+
+        a {
+            display: inline-block;
+            background: #238636;
+            color: white;
+            padding: 12px 22px;
+            border-radius: 8px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>🎓 Men sizning o'quvchingizman!</h1>
